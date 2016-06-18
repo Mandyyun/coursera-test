@@ -10,6 +10,10 @@ h1 {
 	 box-sizing: border-box;
 }
 
+.row {
+  width: 100%;
+}
+
 #box {
   background-color: white;
   padding: 10px 10px 10px 14px;
